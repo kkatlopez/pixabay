@@ -1,0 +1,7 @@
+.img-preview {
+  width: 20rem;
+  height: 20rem;
+  object-fit: cover;
+  display: flex;
+  margin: 0 auto;
+}
